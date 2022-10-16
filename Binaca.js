@@ -218,7 +218,7 @@ suspects = [
 // function createSuspectObjects(name) {
 //   return {
 //     name: name,
-//     color: name.split(" ")[1],
+//     col or: name.split(" ")[1],
 //     speak() {
 //       console.log("my name is", name);
 //     }
